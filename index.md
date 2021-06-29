@@ -1,37 +1,26 @@
-## Welcome to GitHub Pages
+## Introduction
 
-You can use the [editor on GitHub](https://github.com/IIITKalyaniFOSC/MediCare-Prime/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+MediCare is a web application that claims to do the following:
+1. Predict various diseases and ailments using machine learning and deep learning by taking in inputs from the user that include their reports, medical images(x-rays, ultrasounds, blood profile, etc)
+2. Keep a track of all tests taken by the user and their results, all displayed on a dashboard.
+3. Store user's information to analyze the medical history and give health tips and suggestions based on the same.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can visit [the website](https://medicare-prime.herokuapp.com) to try out all its features or follow the steps listed below to setup the webapp locally for development.
 
-### Markdown
+## Installation
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## Support or Contact
 
-- Bulleted
-- List
+1. Having trouble with the web-app?
+- Report it [here](https://github.com/IIITKalyaniFOSC/MediCare-Prime/issues)
 
-1. Numbered
-2. List
+2. Find something missing in the documentation?
+- Report it [here](https://github.com/IIITKalyaniFOSC/MediCare-Prime/issues)
 
-**Bold** and _Italic_ and `Code` text
+3. Think you could fix it?
+- We'd love to have you as a contributor! Kindly go ahead and ask for the issue to be assigned.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IIITKalyaniFOSC/MediCare-Prime/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+4. For literally anything else?
+- Go on to the [contact-us](https://github.com/IIITKalyaniFOSC/MediCare-Prime/settings/pages) section on the web-app and drop us a text, we'd be as prompt as possible.
